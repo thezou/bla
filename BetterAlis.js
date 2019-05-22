@@ -130,7 +130,7 @@ $(`<script src="https://apis.google.com/js/platform.js"></script>
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;}
-#logomenu{background-image: url("${res}/menu-logo.png");
+#logomenu{background-image: url("https://i.imgur.com/oBJBK3D.png");
   width: 340px;height: 170px;margin-top: 60px;transition-duration: 0.5s;
   background-position: center;
   background-repeat: no-repeat;
