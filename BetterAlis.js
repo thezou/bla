@@ -1,6 +1,6 @@
 //config
 var v = "1.00"
-var res = "https://zimek.tk/BetterAlis/res"
+var res = "https://thezou.github.io/bla/res"
 
 //loading upgrades data
 $("#users").remove()
